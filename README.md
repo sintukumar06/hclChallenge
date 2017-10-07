@@ -1,4 +1,4 @@
-# Spring Boot "Microservice" Example Project(hclChallenge)
+# Spring Boot "Microservice" Project(hclChallenge)
 This is a sample Java / Maven / Spring Boot application that can be used as a starter for creating a microservice.
 
 ## How to Run
